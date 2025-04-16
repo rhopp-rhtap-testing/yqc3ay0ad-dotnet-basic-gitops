@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yqc3ay0ad-dotnet-basic-repository
+spec:
+  url: https://github.com/rhopp-rhtap-testing/yqc3ay0ad-dotnet-basic
